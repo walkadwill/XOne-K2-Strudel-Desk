@@ -54,7 +54,7 @@ pw-link k2_split_out:output_FR $K2:playback_FR
 
 Then make "K2 Split" your default output, reload strudel.cc and paste the desk. The loopback lasts until you reboot.
 
-On macOS, Chrome may give Strudel all four of the K2's channels directly. That hasn't been tested yet.
+On macOS, Chrome may give Strudel all four of the K2's channels directly. That hasn't been tested yet. [MACOS.md](MACOS.md) has the expected changes and a two-minute test.
 
 ## Status
 
