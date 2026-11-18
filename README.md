@@ -2,7 +2,7 @@
 
 Play [Strudel](https://strudel.cc) live from an Allen & Heath Xone:K2, like a DJ desk. It needs nothing but a browser.
 
-- **16 tracks** on the bottom grid (A–P). They share one key and tempo: 122 bpm, E minor (Camelot 9A).
+- **Starter code with 16 example tracks** on the bottom grid (A–P), across a mix of genres: house, dub techno, synth-pop, acid, liquid 2-step, bossa dub, ambient psy, lo-fi, deep house, progressive, minimal, baroque house and a downtempo closer. They share one key and tempo (122 bpm, E minor, Camelot 9A), so any track blends into any other. Swap in your own: the full list is at the top of `k2-desk.js`.
 - **Tap a letter once** to cue it in your headphones. **Tap it again** and it blends in over 8 bars, starting on the next 4-bar phrase. The bass swaps over cleanly halfway through.
 - **One K2 column per part:** drums, bass, chords and lead. Each has a fader, a mute, a section (Intro, Groove, Breakdown or Drop), and filter, reverb and echo.
 - **DJ EQ** is on the orange layer: treble, mid and bass for the outgoing and incoming tracks, with kill switches.
